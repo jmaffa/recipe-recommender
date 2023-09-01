@@ -1,6 +1,4 @@
-### Project details
 ### Project name: Cooler Recipe Recommender
-### Project description:
 ## General Overview: A web app that recommends recipes to users based on the ingredients they currently have. 
 ## Team members and contributions (include cs logins)
 Nadya Tan (ntan13): Database Integration 
